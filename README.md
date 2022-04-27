@@ -1,7 +1,8 @@
 # vue3-starter-template
 
-Vue 3 starter template
-Blank template with configured eslint and tsconfig
+Vue 3 starter template.
+
+Blank template with configured eslint and tsconfig.
 
 ## Stack
 
